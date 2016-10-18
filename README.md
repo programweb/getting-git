@@ -1,5 +1,3 @@
-# getting-git
+# Getting Git
 
-This is a sample repo used in the Louisville Software Engineering meetup. Yay, beer!
-
-Look, another line.
+This repository is used during my *"Getting Git"* tutorial.
